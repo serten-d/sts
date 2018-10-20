@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : phpunit.xml
+    Author     : dariusz.daniec@gmail.com
+    Description: phpunit configuration file.
+-->
+<phpunit colors="true" bootstrap="../../index.php">
+    <testsuites>
+        <testsuite name="Kohana Tests">
+            <directory>./</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

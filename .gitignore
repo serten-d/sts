@@ -1,0 +1,16 @@
+nbproject/
+nbproject\
+
+application\logs\
+application/logs/
+
+application\logs\
+application/logs/
+
+application/classes/config/
+application\classes\config\
+
+application/config/
+application\config\
+
+config

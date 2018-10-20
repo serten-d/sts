@@ -1,0 +1,39 @@
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
+	branch = 3.3/master
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/kohana/database.git
+	branch = 3.3/master
+[submodule "modules/cache"]
+	path = modules/cache
+	url = https://github.com/kohana/cache.git
+	branch = 3.3/master
+[submodule "modules/codebench"]
+	path = modules/codebench
+	url = https://github.com/kohana/codebench.git
+	branch = 3.3/master
+[submodule "modules/minion"]
+	path = modules/minion
+	url = https://github.com/kohana/minion.git
+	branch = 3.3/master
+[submodule "modules/orm"]
+	path = modules/orm
+	url = https://github.com/kohana/orm.git
+	branch = 3.3/master
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = https://github.com/kohana/unittest.git
+	branch = 3.3/master
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = https://github.com/kohana/userguide.git
+	branch = 3.3/master
+[submodule "modules/mysqli"]
+	path = modules/mysqli
+	url = https://github.com/tomlankhorst/kohana-3.3-mysqli.git
+	branch = master
+[submodule "modules/restful-api"]
+	path = modules/restful-api
+	url = https://github.com/SupersonicAds/kohana-restful-api.git
